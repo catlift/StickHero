@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "StickHero",
+  "id": "d29e4bc2-564e-433c-a71d-2f35c409349f",
+  "version": "2.4.0",
+  "isNew": false
+}

@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Desappearing",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ad772cf0-e969-42ce-a3af-263d8be7d7b2"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "6eb6fc06-9d7e-431e-a781-4c4473dc8fc2"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "45378b8e-f80a-4b12-9f55-4f0c69c5978a"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "a5d2ca6c-e280-4070-9040-39e985ff757b"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8aa0f8ba-af59-4140-81f4-fb5d3be3ce10"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "20ccc01f-ba5c-4f83-9954-386db0cc82ed"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "3d306855-3724-49a4-b3ac-22b8f517c9cf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
